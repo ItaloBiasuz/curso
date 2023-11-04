@@ -1,0 +1,24 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Crimson+Text&display=swap');
+
+
+  body{
+    background-color: #43E86D;
+  }
+
+.titulo{
+    font-family: 'Crimson Text', serif;
+    font-weight: 100;
+    margin: 30px;
+    margin-top: 60px ;
+    text-align: center;
+}
+
+#principal{ 
+ color:gold;
+ font-size: 60px;
+}
+#sub-titulo{
+    border: solid 5px;
+    font-size: 30px;
+}
