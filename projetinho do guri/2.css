@@ -3,7 +3,7 @@
 
 
 body{
-    background-color: #B8954B;
+    background: linear-gradient(to right, #B8954B, #EBB131) ;
 }
 .titulo{ 
     text-align: center; 
